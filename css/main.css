@@ -181,7 +181,7 @@ dd{
   color: inherit;
 }
 
-@media (max-width: 834px) {
+@media (max-width: 1042px) {
   .bio{
     width: 100%;
     margin: 0;
