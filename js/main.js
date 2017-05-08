@@ -1,5 +1,5 @@
-var submit = document.querySelector("#mySubmit")
-var form = document.forms[0]
+var submit = document.querySelector("#mySubmit");
+var form = document.forms[0];
 
 
 form.addEventListener('input', function(){
