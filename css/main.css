@@ -131,7 +131,7 @@ main{
   font-weight: 300;
 }
 dt{
-  font-weight: 500;
+  font-weight: 300;
   margin-bottom: 5px;
 }
 dd{
@@ -197,6 +197,7 @@ dd{
 main form{
   font-size: 2em;
   width: 100%;
+  margin-bottom: 150px;
 }
 main input, textarea{
   margin-bottom: 25px;
@@ -238,11 +239,8 @@ main #mySubmit{
   outline:none;
 
 }
-@media (max-width: 950px;) {
-  main form{
-    text-align: center;
-  }
-}
+
+
 /* footer section */
 footer{
   font-weight: 100;
